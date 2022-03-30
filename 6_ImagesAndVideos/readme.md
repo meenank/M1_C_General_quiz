@@ -1,4 +1,3 @@
-
 ## Images of project output
 
 ![Output image](../6_ImagesAndVideos/1.png "Output image")
