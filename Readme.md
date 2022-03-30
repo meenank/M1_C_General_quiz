@@ -1,7 +1,6 @@
 # About Repo
 
-## Naming Converntion for this repo : M1_Project_name
-
+This is a general quiz on command line interface implemented in c language, you will get instructions once run the file
 
 ## Badges
 
