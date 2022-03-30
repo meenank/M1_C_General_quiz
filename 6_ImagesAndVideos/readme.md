@@ -1,4 +1,4 @@
-# any images and videos related to project
+# images and videos related to project output
 
 ## Images
 
@@ -14,4 +14,4 @@
 
 ## Video
 
-[![output video]({../6_ImagesAndVideos/1.png})]({6_ImagesAndVideos/vid-1.mp4} "output video")
+[![output video]({})]({../6_ImagesAndVideos/vid-1.mp4} "output video")
