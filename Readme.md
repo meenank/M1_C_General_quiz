@@ -1,6 +1,6 @@
 # About Repo
 
-This is a general quiz on command line interface implemented in c language, you will get instructions once run the file
+This is a basic numerical system converter in c
 
 ## Badges
   CODIGA 
