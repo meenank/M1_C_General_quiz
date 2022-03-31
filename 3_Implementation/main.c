@@ -266,37 +266,6 @@ int main()
     }
 
     spacebar = 3+35;
-        for( x=1;x<=3;x++)
-        {
-            for( y=1;y<=spacebar;y++)
-            {
-                printf(" ");
-            }
-            spacebar--;
-            for( y=1;y<=2*x-1;y++)
-            {
-                printf("*");
-            }
-            printf("\n");
-        }
-        spacebar = 37;
-        for( x=1;x<=3;x++)
-        {
-            for( y=1;y<=spacebar;y++)
-            {
-                printf(" ");
-            }
-            spacebar++;
-            for( y=1;y<=2*(3-x)-1;y++)
-            {
-                printf("*");
-
-            }
-
-            printf("\n");
-
-        }
-        printf("\t\t BROUGHT TO YOU BY ITSOURCECODE.COM \n\t\t Log On now For More C/C++ Free Projects");
 }
 
 long int Binary_to_Decimal(long int bin)
