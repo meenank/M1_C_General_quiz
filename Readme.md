@@ -12,3 +12,7 @@ This is a basic numerical system converter in c
   CODACY
 
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2a6797881f7849ab8699d98662413e25)](https://www.codacy.com/gh/meenank/M1_C_General_quiz/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=meenank/M1_C_General_quiz&amp;utm_campaign=Badge_Grade)
+
+GitHub Workflow
+
+[![Windows C/C++ CI](https://github.com/meenank/M1_NumberSystem_Converter/actions/workflows/main.yml/badge.svg)](https://github.com/meenank/M1_NumberSystem_Converter/actions/workflows/main.yml)
