@@ -23,8 +23,7 @@ int main()
     char h[100];
     int x,y,spacebar;
 
-    printf("\t\tWELCOME TO NUMBER SYSTEM CONVERSION\n\n");
-        printf("\t\tWELCOME TO NUMBER SYSTEM CONVERSION hero\n\n");
+    printf("\t\tWELCOME TO NUMBER SYSTEM CONVERSION SYSTEM\n\n");
 
 
     while(numbers!=0)
