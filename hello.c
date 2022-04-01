@@ -2,6 +2,8 @@
 int main()
 {
     printf("triggering")
+        printf("triggering")
+        printf("triggering")
     printf("Welcome to Github Actions.\n********* Its Working*******\n");
     return 0;
 }
